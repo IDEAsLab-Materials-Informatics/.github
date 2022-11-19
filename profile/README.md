@@ -4,7 +4,7 @@ This organization page hosts repositories with materials informatics programs de
 
 Indian Institute of Technology (IIT) Ropar
 
-Group Leader: Dr. Pratik K. Ray
+**Group Leader**: Dr. Pratik K. Ray
 
-- Developer Team:
+**Developer Team**:
 - Dishant Beniwal (@d-beniwal)
