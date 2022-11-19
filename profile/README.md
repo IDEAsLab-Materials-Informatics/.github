@@ -1,4 +1,4 @@
-### Materials Informatics @ IDEAs Lab (IIT Ropar)
+### **Materials Informatics @ IDEAs Lab (IIT Ropar)**
 This organization page hosts repositories with materials informatics programs developed at IDEAs Lab (https://ideaslab.iitrpr.ac.in/).
 The scope comprises:
 	a) a
