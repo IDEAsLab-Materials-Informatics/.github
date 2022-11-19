@@ -1,7 +1,5 @@
-# Interface Dynamics and Energetics of Alloys (IDEAs) Lab (https://ideaslab.iitrpr.ac.in/)
+### Materials Informatics @ IDEAs Lab (IIT Ropar)
+This organization page hosts the materials informatics programs developed at IDEAs Lab (https://ideaslab.iitrpr.ac.in/)
 Indian Institute of Technology (IIT) Ropar
 Group Leader: Dr. Pratik K. Ray
-
-## Materials Informatics Group
-Developers: Dishant Beniwal (@d-beniwal)
-
+Developer Team: Dishant Beniwal (@d-beniwal)
