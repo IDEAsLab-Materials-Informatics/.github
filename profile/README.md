@@ -1,5 +1,5 @@
 ### **Materials Informatics @ [IDEAs Lab (IIT Ropar)](https://ideaslab.iitrpr.ac.in/)** 
-This organization page hosts repositories with materials informatics programs developed at IDEAs Lab. Research areas include: **a)** Machine learning models, **b)** Interpretation frameworks, **c)** Data-driven mathematical models, and **d)** Symbolic regression.
+This organization page hosts repositories with materials informatics programs developed at IDEAs Lab.  Research areas include: **a)** Machine learning models, **b)** Interpretation frameworks, **c)** Data-driven mathematical models, and **d)** Symbolic regression.
 
 **Group Leader**: Dr. Pratik K. Ray
 
