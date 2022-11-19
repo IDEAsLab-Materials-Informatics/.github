@@ -7,4 +7,4 @@ Indian Institute of Technology (IIT) Ropar
 **Group Leader**: Dr. Pratik K. Ray
 
 **Developer Team**:
-- Dishant Beniwal (@d-beniwal)
+- Dishant Beniwal ([@d-beniwal](https://github.com/d-beniwal))
